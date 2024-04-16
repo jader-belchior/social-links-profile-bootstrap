@@ -1,0 +1,24 @@
+.bg-darker{
+    background-color: #16181a;
+}
+
+.bg-secondary-darker{
+    background-color: #42464b;
+}
+
+.text-success-y{
+    color: #9bdf48;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.hover:hover{
+    background-color: #50555b;
+    cursor: pointer;
+}
